@@ -1,7 +1,5 @@
 # esiot-assignment01
-First Assignment for the course of Embedded Systems and Internet-of-Things in the Bachelor degree in Ingegneria e Scienze Informatiche.
-
-Realized as a Student in Alma Mater Studiorum Università di Bologna.
+First assignment for the course "Embedded Systems and Internet-of-Things" of the Bachelor degree Ingegneria e Scienze Informatiche in Alma Mater Studiorum University of Bologna.
 
 # Give me the Binary!
 The project focuses on creating a simple game, based on an Arduino Uno board.
